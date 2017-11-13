@@ -1,6 +1,5 @@
+import {paragraph,showParaBtn} from './dom.loader'
 let paraShown = false
-
-
 
 let togglebtnEvent = () => {
     paraShown = ! paraShown ;
