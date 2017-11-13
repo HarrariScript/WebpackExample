@@ -1,0 +1,25 @@
+{
+  "name": "webpackexample",
+  "version": "1.0.0",
+  "description": "WebPack basics exemples ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarrariScript/WebpackExample.git"
+  },
+  "keywords": [
+    "WebPack",
+    "exemple",
+    "tutorial",
+    "basics"
+  ],
+  "author": "Harrari omar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarrariScript/WebpackExample/issues"
+  },
+  "homepage": "https://github.com/HarrariScript/WebpackExample#readme"
+}
